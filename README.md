@@ -1,4 +1,4 @@
-#LinkedIn Web Scrapper
+# LinkedIn Web Scrapper
 
 The purpose of this code is to allow you can enter a string, similar to what you would search on any job board and it will output a CSV file with multiple columns including the postion title, the company, the location of the company and more!
 
